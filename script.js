@@ -1,0 +1,1 @@
+const SUPABASE_URL='YOUR_URL';const SUPABASE_ANON_KEY='YOUR_KEY';document.getElementById('app').innerHTML='<p>Replace keys and implement logic from JSX.</p>';
